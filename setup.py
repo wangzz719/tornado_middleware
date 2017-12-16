@@ -3,7 +3,7 @@
 
 """
 @author: wangzhizhao
-@contact: wangzhizhao@zhihu.com
+@contact: wzhizhao@gmail.com
 @file: setup.py.py
 @time: 2017/12/16
 """
